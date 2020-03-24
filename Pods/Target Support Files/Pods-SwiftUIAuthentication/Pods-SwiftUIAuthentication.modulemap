@@ -1,0 +1,6 @@
+framework module Pods_SwiftUIAuthentication {
+  umbrella header "Pods-SwiftUIAuthentication-umbrella.h"
+
+  export *
+  module * { export * }
+}
